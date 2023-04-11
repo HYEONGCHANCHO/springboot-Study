@@ -1,0 +1,5 @@
+com\shop\entity\QMember.class
+com\shop\entity\Member.class
+com\shop\entity\QItem.class
+com\shop\entity\Board.class
+com\shop\entity\QBoard.class

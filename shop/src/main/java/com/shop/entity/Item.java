@@ -21,7 +21,7 @@ public class Item {
     private Long id; //싱품코드
 
     @Column(nullable = false,length = 50)
-    private String ItemNm; //상품명
+    private String itemNm; //상품명
 
     @Column(name = "price",nullable = false)
     private int price; //가격
